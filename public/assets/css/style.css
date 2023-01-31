@@ -1,0 +1,32 @@
+.text-color
+{
+    color: #ff4800;
+}
+.bg-color
+{
+    background-color: #ff4800;
+}
+.text-default-colour{
+    color: #ff4800;
+}
+.bg-color:hover{
+    background-color: #d93d00;
+}
+.my-nav-link{ font-weight: bold}
+.my-nav-link:hover{
+    background-color: #d93d00;
+    color: white;
+}
+.bg-default-color{
+    background-color: #ff4800;
+}
+.banner-section{
+    background-image: url("../img/header.jpg");
+    height: 500px;
+}
+
+.card-form-div{
+    padding-top: 80px;
+    padding-left: 40px;
+    padding right: 30px;
+}
